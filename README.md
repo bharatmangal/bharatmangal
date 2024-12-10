@@ -39,4 +39,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=BharatMangal&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
-![snake gif](https://github.com/bharatmangal/bharatmangal/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/bharatmangal/bharatmangal/blob/output/github-contribution-grid-snake-light.svg)
